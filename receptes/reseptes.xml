@@ -1,0 +1,28 @@
+<!--
+    Oriol Canellas Beltran
+    Narcís Carol Costajussà
+    14 d'abril 2023
+    M04 UF2 Pt3.3 Reseptes
+-->
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="llistaReceptes.xsl" ?>
+<Reseptes>
+	<Resepta>
+		<nombre>Truita de Patata</nombre>
+		<Dificultat></Dificultat>
+        <Cuina></Cuina>
+        <Temps></Temps>
+        <Descripcio></Descripcio>
+		<Ingredients></Ingredients>
+        <Pasos></Pasos>
+	</Resepta>
+    <Resepta>
+		<nom></nom>
+		<Dificultat></Dificultat>
+        <Cuina></Cuina>
+        <Temps></Temps>
+        <Descripcio></Descripcio>
+		<Ingredients></Ingredients>
+        <Pasos></Pasos>
+	</Resepta>
+</Reseptes>
