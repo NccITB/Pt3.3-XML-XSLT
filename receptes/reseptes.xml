@@ -1,28 +1,58 @@
-<!--
-    Oriol Canellas Beltran
-    Narcís Carol Costajussà
-    14 d'abril 2023
-    M04 UF2 Pt3.3 Reseptes
--->
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="llistaReceptes.xsl" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Reseptes>
-	<Resepta>
-		<nombre>Truita de Patata</nombre>
-		<Dificultat></Dificultat>
-        <Cuina></Cuina>
-        <Temps></Temps>
-        <Descripcio></Descripcio>
-		<Ingredients></Ingredients>
-        <Pasos></Pasos>
-	</Resepta>
-    <Resepta>
-		<nom></nom>
-		<Dificultat></Dificultat>
-        <Cuina></Cuina>
-        <Temps></Temps>
-        <Descripcio></Descripcio>
-		<Ingredients></Ingredients>
-        <Pasos></Pasos>
-	</Resepta>
+    <resepta>
+        <title>TRUITA DE PATATA</title>
+        <descripcio>Truita de patata que es pot fer a casa (temps estimat 1 hora).</descripcio>
+        <ingredients>
+            <ingredient>4 patates mitjanes</ingredient>
+            <ingredient>5 ous</ingredient>
+            <ingredient>1 ceba mitjana</ingredient>
+            <ingredient>oli d'oliva</ingredient>
+            <ingredient>sal al gust</ingredient>
+        </ingredients>
+        <preparacio>
+            <step>Hem utilitzat patata Monalisa nova, a banda de la seva versatilitat, per què absorbeixen poc oli durant la  cocció. Però podeu emprar altres patates, preferiblement noves o semi-noves (Kennebec, Red Pontiac, Spunta, Agria, etc). També és molt recomanable fer servir ous ecològics de bona qualitat.</step>
+            <step>Peleu les patates.</step>
+            <step>El tall també es important. Un tall com el que us mostrem a les imatges és ideal per a una correcte cocció. Si les feu a daus o més gruixudes, us trobareu amb algunes patates massa cuites i d'altres més crues.</step>
+            <step>Poseu abundant oli a escalfar. Heu de garantir que l'oli cobreixi les patates. Inicialment no ha d'estar massa fort l'oli, just que comenci a coure.</step>
+            <step>Saleu lleugerament les patates mentre es fan. La cocció ha de ser normal, ni massa forta ni massa baixa. És important no tapar-les per evitar que el vapor s'incorpori a l'oli i fem una cocció incorrecte. La patata s'ha de sofregir lentament.</step>
+            <step>En paral·lel, i si us agrada, feu la ceba trinxada amb un raig d'oli i una mica de sal. És preferible no coure la ceba amb la patata.</step>
+            <step>Per cert, nosaltres recomanem oli d'oliva per fer les patates (no cal que sigui verge extra), però també trobareu defensors d'olis més suaus de gust, com el de gira-sol.</step>
+            <step>Un cop la ceba estigui ben cuita, reserveu-la.</step>
+            <step>La patata necessitarà uns 20 minuts aproximadament de cocció. Amb la punta d'un ganivet punxeu-les per saber si són cuites. L'objectiu és que quedin toves però sense torrar-se.</step>
+            <step>Quan estiguin al punt que us agradi, coleu-les.</step>
+            <step>Deixeu-les reposar en el colador durant 5 minuts per escórrer l'excés d'oli i per refredar-les una mica.</step>
+            <step>Ara, trenqueu els ous dins d'un bol.</step>
+            <step>Per fer truita de patates els ous no s'han de remenar gaire, no pas com una truita francesa.</step>
+            <step>Unes poques voltes i que, senzillament, quedin remenats, que a l'aixecar la forquilla es formin fils de clara amb una certa mucositat. S'entén, oi?</step>
+            <step>Afegiu la ceba cuita i reservada dins l'ou.</step>
+            <step>Seguidament, afegiu-hi la patata.</step>
+            <step>Passats aquests minuts, poseu-hi sal.</step>
+            <step>Tireu un raig d'oli d'oliva en una paella anti-adherent. Jo us recomano fer servir una paella més petita que la que heu utilitzat per fregir les patates. D'aquesta manera li podreu donar més volum a la truita i assegurar encara més el punt de cocció interior.</step>
+            <step>Quan l'oli sigui calent (no abans o es pot enganxar), aboqueu-hi la barreja d'ou, patata i ceba.</step>
+            <step>El foc intens, però no massa fort. Feu servir una llengua per moldejar les cantonades i assegurar que no s'enganxi. Un cop de canell amb la paella per remenar-ho també serà útil. En aquest cas concret l'he tinguda uns 3 minuts aproximadament abans de donar-li la volta. Però és molt relatiu, ho veieu oi?</step>
+            <step>Doneu-li la volta a la truita amb fermesa i sense por. Deixeu-la coure al menys 3 minuts més per l'altra banda. Palpeu amb els dits la consistència de la truita. Amb experiència aprendreu a trobar el vostre punt òptim. De fet, podeu donar-li les voltes que considereu oportunes a la truita.</step>
+            <step>Quan estigui al vostre gust, passeu-la a un plat net. Ja sabeu que es pot menjar calenta o freda.</step>
+            <step>I ara l'hem de veure per dins, no?... tanta explicació tanta explicació, però ara toca el millor!</step>
+            <step>Doncs aquí ho teniu, una truita realment sucosa, que no crua.</step>
+            <step>I ara toca gaudir del moment, amb un bon pa amb tomàquet!</step>
+            <step>Espero que no tingueu gana al mirar aquestes fotos... Bon profit!</step>
+        </preparacio>
+    </resepta>
+    <resepta>
+        <title>Macarrons</title>
+        <descripcio>Plat de macarons (30 min aprox)</descripcio>
+        <ingredients>
+            <ingredient>macarons</ingredient>
+            <ingredient>aigua</ingredient>
+            <ingredient>sal</ingredient>
+            <ingredient>salsa al gust(opcional)</ingredient>
+        </ingredients>
+        <preparacio>
+            <step>Posar en una olla l'aigua amb la sal fins que bull</step>
+            <step>Un cop bull incorporem els macaron entre 7 i 9 minuts</step>
+            <step>Pasats els minuts comprovas que estan tous i els coles</step>
+            <step>si vols salsa li incorpores la salsa escullida</step>
+        </preparacio>
+    </resepta>
 </Reseptes>
